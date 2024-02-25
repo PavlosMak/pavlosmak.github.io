@@ -1,0 +1,24 @@
+# main links links
+main:
+  - title: "CV"
+    url: /files/cv.pdf
+  
+  - title: "Research"
+    url: https://scholar.google.com/citations?user=LsgZ4o8AAAAJ&hl=en&inst=6173373803492361994&oi=sra
+    # url: /publications/
+
+  # - title: "Projects"
+    # url: /projects/
+
+
+  # - title: "Blog"
+    # url: /year-archive/
+    
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+            
+  # - title: "Guide"
+  #   url: /markdown/
