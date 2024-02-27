@@ -24,17 +24,22 @@ Researched and developed a photon mapping-based approach to create
 ambient light caches to improve the efficiency of physically based
 rendering. [See here for the report.](https://repository.tudelft.nl/islandora/object/uuid:03cc13a5-d0c5-4a45-81fe-f98cd68361a4?collection=education)
 
-## Visualizing Practical Path Guiding
-<img src="images/projects/practical.png" alt="A visualization of how the spatio-directional adaptive tree from practical path guiding fits a 3D radiance field.">
-
-An interactive visualization of [Practical Path Guiding](https://studios.disneyresearch.com/wp-content/uploads/2019/03/Practical-Path-Guiding-for-Efficient-Light-Transport-Simulation.pdf) by Müller, Gross and Novák. We reimplement their technique in a custom 2D path tracer, reducing the radiance field and the proposed adaptive spatio-directional tree to three dimensions (instead of five). Since the tree and radiance field are 3D we can then visualize how the first adapts to fit the second. 
-
-
 ## The Unnamed Game Engine
 <img src="images/projects/oscillating_dragon.gif" alt="A physically based rendering of the Stanford dragon oscillating between being rusty and having dragon scales.">
 OpenGL 3D game engine built with the ENTT entity component
 system with support for shadow mapping, physically based materials,
 SDF glyph rendering and Bézier curve animations. [Check it out!](https://github.com/PavlosMak/UnnamedGameEngine)
+
+## Visualizing the Gaussian Splatting Optimization
+<img src="images/projects/gaussian_optimization.gif" alt="A physically based rendering of the Stanford dragon oscillating between being rusty and having dragon scales.">
+A 3D visualizer that demonstrates how the 3D Gaussian Splatting optimization algorithm adapts the Gaussian Kernels to match the underlying scene's appearance and geometry. Click [here](https://www.youtube.com/watch?v=CgAXgjUcurc) to see it in action and [here](https://github.com/PavlosMak/Gaussians-Optimization-Viewer) for the code.
+
+
+## Visualizing Practical Path Guiding
+<img src="images/projects/practical.png" alt="A visualization of how the spatio-directional adaptive tree from practical path guiding fits a 3D radiance field.">
+
+An interactive visualization of [Practical Path Guiding](https://studios.disneyresearch.com/wp-content/uploads/2019/03/Practical-Path-Guiding-for-Efficient-Light-Transport-Simulation.pdf) by Müller, Gross and Novák. We reimplement their technique in a custom 2D path tracer, reducing the radiance field and the proposed adaptive spatio-directional tree to three dimensions (instead of five). Since the tree and radiance field are 3D we can then visualize how the first adapts to fit the second. 
+
 
 ## Blender Geometry Processing
 <img src="images/projects/max.png" alt="Max Planck getting his chin enlraged">
