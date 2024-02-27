@@ -31,7 +31,8 @@ system with support for shadow mapping, physically based materials,
 SDF glyph rendering and Bézier curve animations. [Check it out!](https://github.com/PavlosMak/UnnamedGameEngine)
 
 ## Visualizing the Gaussian Splatting Optimization
-<img src="images/projects/gaussian_optimization.gif" alt="A physically based rendering of the Stanford dragon oscillating between being rusty and having dragon scales.">
+<img src="images/projects/gaussian_optimization.gif" alt="A gif of gaussian kernels moving to fit the appearance and geometry of a train.">
+
 A 3D visualizer that demonstrates how the 3D Gaussian Splatting optimization algorithm adapts the Gaussian Kernels to match the underlying scene's appearance and geometry. Click [here](https://www.youtube.com/watch?v=CgAXgjUcurc) to see it in action and [here](https://github.com/PavlosMak/Gaussians-Optimization-Viewer) for the code.
 
 
