@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent MSc Computer Science graduate from TU Delft. My research interests lie in the intersection of computer graphics, deep learning and computer vision. I am particularly interested in the application of deep learning for computer graphics tasks (like [this](https://arxiv.org/abs/2105.12319) or [this](https://research.nvidia.com/publication/2021-06_real-time-neural-radiance-caching-path-tracing)) and in the combination of classical graphics ideas and data-driven computer vision for capturing environments (like [this](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) and [this](https://alexyu.net/plenoxels/)).
+I am a Machine Learning Engineer at PlayStation's R&D (Future Technology Group) in London, working on research and engineering projects combining computer graphics and deep learning.
 
-For my Master's thesis, I worked on joint reconstruction of object appearance, geometry and physics parameters with the mentorship of [Prof. Petr Kellnhofer](https://kellnhofer.xyz/). In the past, I have worked on physically based rendering with [Prof. Elmar Eisemann](https://graphics.tudelft.nl/~eisemann/), intercontinental robotic teleoperation with [Prof. VP](https://www.google.com/search?channel=fs&client=ubuntu&q=vp+tu+delft) and static analysis for software engineering with [Prof. Andy Zaidman](https://azaidman.github.io/).
+Previously, I studied computer science at TU Delft, where I got my MSc with distiction (9.0/10.0) in June 2024.
+For my Master's thesis, I worked on joint reconstruction of object appearance, geometry and physics parameters with the mentorship of [Prof. Petr Kellnhofer](https://kellnhofer.xyz/). In the past, I have worked on physically based rendering with [Prof. Elmar Eisemann](https://graphics.tudelft.nl/~eisemann/), intercontinental robotic haptic teleoperation with [Prof. VP](https://www.google.com/search?channel=fs&client=ubuntu&q=vp+tu+delft) and static analysis for software engineering with [Prof. Andy Zaidman](https://azaidman.github.io/).
 
-I enjoy scuba diving and I am certified PADI Rescue Diver. I also love hiking but [there are no mountains in the Netherlands](https://en.wikipedia.org/wiki/Vaalserberg).
+I enjoy scuba diving and I am certified PADI Rescue Diver. I also love hiking but I keep finding myself in countries without mountains.
 
 # Selected (Research) Projects
 Here are some of the projects I have proudly done or participated in.
